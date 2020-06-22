@@ -13,3 +13,5 @@ python predict_odd_numbers.py --test_model model/xxx.pt
 ```
 
 Codes in the model.py come from [this notebook](https://colab.research.google.com/drive/1g4ZFCGegOmD-xXL-Ggu7K5LVoJeXYJ75).
+
+MyGithub
